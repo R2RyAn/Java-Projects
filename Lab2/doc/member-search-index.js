@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"lab2","c":"Utility","l":"binaryRepresentation(short)"},{"p":"lab2","c":"Utility","l":"countofMult357(int, int)","u":"countofMult357(int,int)"},{"p":"lab2","c":"Utility","l":"isPalindromeInt(int)"},{"p":"lab2","c":"Utility","l":"perfectNumber(int)"}];updateSearchResults();
